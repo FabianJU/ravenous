@@ -1,0 +1,53 @@
+
+.search-bar {
+    background-image: url('./background_search_desktop.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.sorting-options ul {
+    display: flex;
+    justify-content: center;
+    margin: 140px 30px 0px 460px;
+    list-style-type: none;
+    width: 35%;
+}
+
+.underline {
+    border-bottom: 1px solid white;
+    width: 35%;
+    margin-left: 520px; 
+    margin-bottom: 30px;
+}
+
+
+.sorting-options li {
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 50px 5px 80px;
+    font-size: 1rem;
+    font-weight: 600;
+    width: 50px;
+}
+
+.search-business, .where-button {
+    margin: 10px 20px 20px 20px;
+    justify-content: center;
+    width: 435px;
+    height: 40px;
+    border: 0;
+    border-radius: 5px;
+}
+
+.let-go-button {
+    background-color: #CCA353;
+    color: white;
+    height: 40px;
+    width: 140px;
+    border: 0;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
