@@ -13,7 +13,7 @@ To gain a better understanding of building front-end web applications using the 
 ## Features
 
 * The website allows users to scroll up and down to navigate through its content.
-* Users can simulate a search by typing in the search bar
+* Users can simulate a search by typing in the search bar.
 * A list of mock restaurant data is presented to the user.
 * Information is transferred efficiently between components using a unidirectional data flow pattern commonly used in React applications.
 
