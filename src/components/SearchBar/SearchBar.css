@@ -51,3 +51,14 @@
     margin-bottom: 100px;
 }
 
+.let-go-button:active {
+    background-color: #996633; /* Change to a different color for the click effect */
+    cursor: pointer; 
+}
+
+.sorting-options ul li:hover {
+    color: #CCA353;
+     margin: 0px 50px 5px 80px;
+     cursor: pointer; 
+}
+

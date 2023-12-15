@@ -1,6 +1,7 @@
 import React from 'react';
 import './Business.css';
 
+
 const Business = ({ business }) => {
         return (
             <div className="business">

@@ -3,7 +3,6 @@ import Business from '../Business/Business';
 /*import businesses from './businesses';*/
 import './BusinessList.css'
 
-
 const BusinessList = (props) => {
         return (
                 <div className="business-list">
