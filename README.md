@@ -1,6 +1,6 @@
 # Ravnenous
 
-Ravenous is a single-page React application designed to search for restaurants using the Yelp API. Originally created as part of [Codeacademy's front-end React course]([url](https://www.codecademy.com/learn/paths/build-web-apps-with-react)), it has since undergone significant expansion, incorporating enhanced functionality and additional features.
+Ravenous is a single-page React application designed to search for restaurants using the Yelp API. 
 
 ## Technologies 
 
