@@ -25,19 +25,19 @@ Launches the app in development mode using node server.js. Access it at http://l
 ## Potential Future Improvements
 
 * ### Enhanced Features via Yelp API:
-  ** Integrate a dropdown selection menu for Yelp API features: wheelchair accessiblity, parking validation and outdoor seating avaiability.
+  * Integrate a dropdown selection menu for Yelp API features: wheelchair accessiblity, parking validation and outdoor seating avaiability.
 * ### User-Friendly Cost Adjustment:
-  ** Implement a price range slider from Yelp API, enabling users to adjust estimated restaurant costs easily.
+  * Implement a price range slider from Yelp API, enabling users to adjust estimated restaurant costs easily.
 * ### Interactive Location Linking:
-  ** Integrate Google Maps Places API to seamlessly link restaurant locations to Google Maps on the web page.
+  * Integrate Google Maps Places API to seamlessly link restaurant locations to Google Maps on the web page.
 * ### Responsive Design:
-  ** Ensure elements on the website page are well-organized and maintain a pleasing layout when the page is resized.
+  * Ensure elements on the website page are well-organized and maintain a pleasing layout when the page is resized.
 * ### Smart Search Bar:
-  ** Display a placeholder in the search bar for better user guidance before typing.
-  ** Prompt users with a message if no search has been initiated or if an invalid location or business has been entered.
+  * Display a placeholder in the search bar for better user guidance before typing.
+  * Prompt users with a message if no search has been initiated or if an invalid location or business has been entered.
 * ### Clean Initial Interface:
-  ** Set the bottom half of the page as white by default, providing a neat and clean interface before any searches are made.
+  * Set the bottom half of the page as white by default, providing a neat and clean interface before any searches are made.
 * ### Convenient Search Execution:
-  ** Allow users to press "enter" to initiate a search for enhanced user experience.
+  * Allow users to press "enter" to initiate a search for enhanced user experience.
 * ### Visual Loading Feedback:
-  ** Implement a loading icon to inform users of ongoing data retrieval from the Yelp API before restaurant information is displayed on the page.
+  * Implement a loading icon to inform users of ongoing data retrieval from the Yelp API before restaurant information is displayed on the page.
