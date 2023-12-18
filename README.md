@@ -20,6 +20,6 @@ This command installs all Node dependencies for React and other third-party pack
 ### npm start
 Launches the app in development mode using node server.js. Access it at http://localhost:3000 in your browser. The page automatically reloads on source code edits, and linting errors are displayed in the console.
 
-![ravenousdemo](https://github.com/FabianJU/ravenous/assets/62031828/86719649-7415-49af-8e73-c83f5e55f783)
+![ravenousdemo-2](https://github.com/FabianJU/ravenous/assets/62031828/7c3ef522-72bb-4885-b17a-7f7b00af0aa0)
 
 ## Potential Future Improvements
