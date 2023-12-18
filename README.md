@@ -12,4 +12,14 @@ This React app was built using the Node.js [create-react-app command]([url](http
 * Restauraunt data is fetched using the Yelp API and results are displayed with restauraunts' photos, addresses, cuisine, and ratings/review counts.
 * Information is transferred efficiently between components using a unidirectional data flow pattern commonly used in React applications.
 
+## Local setup
+
+To set up the project locally from the "ravenous" directory, execute the following CLI commands:
+### npm install 
+This command installs all Node dependencies for React and other third-party packages used in the project.
+### npm start
+Launches the app in development mode using node server.js. Access it at http://localhost:3000 in your browser. The page automatically reloads on source code edits, and linting errors are displayed in the console.
+
+![ravenousdemo](https://github.com/FabianJU/ravenous/assets/62031828/86719649-7415-49af-8e73-c83f5e55f783)
+
 ## Potential Future Improvements
