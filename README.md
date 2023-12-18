@@ -8,9 +8,8 @@ This React app was built using the Node.js [create-react-app command]([url](http
 
 ## Features
 
-* The website allows users to scroll up and down to navigate through its content.
-* Users can simulate a search by typing in the search bar.
-* A list of mock restaurant data is presented to the user.
+* Users can search for restauraunts by name and location, and sort their results by best match, highest rated, or most reviewed.
+* Restauraunt data is fetched using the Yelp API and results are displayed with restauraunts' photos, addresses, cuisine, and ratings/review counts.
 * Information is transferred efficiently between components using a unidirectional data flow pattern commonly used in React applications.
 
 ## Potential Future Improvements
