@@ -3,7 +3,7 @@ import './App.css';
 import BusinessList from './components/BusinessList/BusinessList';
 import SearchBar from './components/SearchBar/SearchBar';
 import { searchYelp } from "./utils/searchYelp";
-
+// fun little comment :)
 const App = () => {
   
   const [businesses, setBusinesses] = useState([]);
